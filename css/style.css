@@ -92,6 +92,19 @@ footer{
     background-color:  rgba(253, 231, 172,.4) ;
     min-width: 50px;
 }
-footer p{
-    text-align: center;
+.footer_text{
+    
+   padding: 10px 0;
+}
+.icon{
+    margin-right: 5px;
+    
+}
+
+.inner_footer{
+    padding-top: 15px;
+    justify-content: space-around;
+    align-items: center;
+    /* background-color: #92ac2c; */
+    
 }
