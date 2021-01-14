@@ -103,8 +103,11 @@ footer{
 
 .inner_footer{
     padding-top: 15px;
-    justify-content: space-around;
+    
     align-items: center;
     /* background-color: #92ac2c; */
     
+}
+.inner_footer img{
+    width: 460px;
 }
